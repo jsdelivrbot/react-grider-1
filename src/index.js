@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import SearchBar from './components/search_bar';
 
-const API_KEY = 'AIzaSyBereBIqx-FIueSKHWcgL_ZPQjWggqr11M';
+const YOUTUBE_API_KEY = 'AIzaSyBnv0CSW4Oyo-Q2ocTUZgpxmmEdExgKdTE';
 
 const App = () => {
   return (
